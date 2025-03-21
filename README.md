@@ -21,7 +21,12 @@
 - Lightweight & easy to use ⚡
 
 
-### 📦 Installation
+### ⭐ Installation
+
+- [Chrome Web Store](https://chromewebstore.google.com/detail/podcastshortcuts/kfpjgalpaajacpngajeebifbkgpjolgm)
+
+
+### 📦 Offline Installation
 
 1. Clone or download this repository:
    ```

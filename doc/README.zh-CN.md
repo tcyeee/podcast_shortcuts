@@ -1,7 +1,7 @@
 ## **Podcast Shortcut Helper 🎧**
 
 
-![icon](./images/icon-48.png)
+![icon](../images/icon-48.png)
 
 <br>
 
@@ -22,7 +22,12 @@
 - 简单易用，无需复杂设置 ⚡
 
   
-### 📦 安装方法
+### 使用
+
+- 访问 [Chrome Web Store](https://chromewebstore.google.com/detail/podcastshortcuts/kfpjgalpaajacpngajeebifbkgpjolgm) 点击安装
+
+
+### 📦 离线使用
 
 1. 下载或克隆本项目
     ```bash

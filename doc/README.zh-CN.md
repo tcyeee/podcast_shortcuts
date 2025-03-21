@@ -24,7 +24,7 @@
 1. 下载或克隆本项目
 
 ```bash
-[git clone](<https://github.com/tcyeee/podcast_shortcuts.git>) <https://github.com/tcyeee/podcast_shortcuts.git>
+git clone https://github.com/tcyeee/podcast_shortcuts.git
 ```
 
 1. 打开 Chrome，进入 chrome://extensions/
